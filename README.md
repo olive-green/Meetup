@@ -53,6 +53,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/c
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
+
 ### Making a Progressive Web App
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
@@ -68,3 +69,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+[https://github.com/open-for-everyone/hacktoberfest2021/discussions/747](https://github.com/open-for-everyone/hacktoberfest2021/discussions/747)
+
+<p align="center">
+    <a href="https://hacktoberfest.digitalocean.com/">
+        <img src="logo.png" width="90%">
+    </a>
+</p>
+
+<h1 align="center"> Hacktoberfest 2021 🎉</h1>
+ FREE FOR ALL , LEARNING and CELEBRATING OPEN SOURCE, This Hacktoberfest project exists to help you submit your first Pull Request!
+
+### What is Hacktoberfest?
+[Hacktoberfest](https://hacktoberfest.digitalocean.com/) is a month-long celebration of open source software. You have to register and make five pull requests to any github repo (including this one!) in the month of october. If you do that you get a tshirt :tshirt: and stickers for your laptop :computer: . Sounds interesting? Let's do it then!
