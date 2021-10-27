@@ -53,6 +53,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/c
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
+[https://github.com/open-for-everyone/hacktoberfest2021/discussions/747](https://github.com/open-for-everyone/hacktoberfest2021/discussions/747)
+
+<p align="center">
+    <a href="https://hacktoberfest.digitalocean.com/">
+        <img src="logo.png" width="90%">
+    </a>
+</p>
+
+<h1 align="center"> Hacktoberfest 2021 🎉</h1>
+ FREE FOR ALL , LEARNING and CELEBRATING OPEN SOURCE, This Hacktoberfest project exists to help you submit your first Pull Request!
+
 ### Making a Progressive Web App
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
